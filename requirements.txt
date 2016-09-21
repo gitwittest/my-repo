@@ -1,6 +1,6 @@
-    3  sudo pip install celery
     8  sudo apt-get install redis-sever
 
+    3  sudo pip install celery
    60  sudo pip install wit 
    63  sudo pip install redis
    64  sudo pip install flask
