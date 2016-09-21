@@ -1,0 +1,10 @@
+    3  sudo pip install celery
+    8  sudo apt-get install redis-sever
+
+   60  sudo pip install wit 
+   63  sudo pip install redis
+   64  sudo pip install flask
+
+---------------
+for security concerns removed
+   94  sudo apt-get install soundconverter
